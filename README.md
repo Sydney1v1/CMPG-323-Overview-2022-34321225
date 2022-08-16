@@ -7,3 +7,6 @@
 - Project 4 - Testing & RPA
 - Project 5 - Reporting & Monitoring
 - Exam(POE)
+
+## Use of .gitignore file
+The gitignore file in Visual Studio is used to guarantee that files monitored by Git stay untracked. To stop monitoring a currently tracked file so that credentials are protected and ignore its directories 
