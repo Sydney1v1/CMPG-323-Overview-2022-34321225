@@ -14,3 +14,6 @@ The gitignore file in Visual Studio is used to guarantee that files monitored by
 ## Context Diagram
 
 ![context diagram drawio](https://user-images.githubusercontent.com/102759136/185151136-5844ce6d-dbe1-4ba9-80e0-429ec568d7b9.png)
+## Branching Strategy
+Use the feature of branches from main branch and also for bug fixes.
+Merge branches with main branch using pull requests keeping main branch up to date by dividing and conquering work
