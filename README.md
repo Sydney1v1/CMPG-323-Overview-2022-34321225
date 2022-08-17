@@ -1,3 +1,4 @@
+![context diagram drawio](https://user-images.githubusercontent.com/102759136/185151136-5844ce6d-dbe1-4ba9-80e0-429ec568d7b9.png)
 # CMPG-323-Overview-2022-34321225
 
 ### Repositories that will be created:
