@@ -17,3 +17,7 @@ The gitignore file in Visual Studio is used to guarantee that files monitored by
 ## Branching Strategy
 Use the feature of branches from main branch and also for bug fixes.
 Merge branches with main branch using pull requests keeping main branch up to date by dividing and conquering work
+
+## Credentials and sensitive information 
+To protect sensitive information certain repositories including projects, will be kept as private instead of public 
+for certain repositories that are made public to other users they will jus be as a visible readable texts and non editable even if repositories are forked only certain users will be given access to certain things.
