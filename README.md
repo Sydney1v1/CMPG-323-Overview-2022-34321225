@@ -4,7 +4,7 @@
 ### Repositories that will be created:
 - <a href ="https://github.com/Sydney1v1/CMPG-323-Overview-2022-34321225/" target  = "_blank">Project 1 - Agile and Scrum</a>
 - <A href ="https://github.com/Sydney1v1/CMPG-323-PROJECT-2-34321225" target = "_blank">Project 2 - API Development</a>
-- <A href ="https://github.com/Sydney1v1/CMPG-323-PROJECT-3-34321225-2022""target= "_blank"> Project 3 - Standards & Patterns</a>
+- <A href ="https://github.com/Sydney1v1/CMPG-323-PROJECT-3-34321225-2022" target = "_blank"> Project 3 - Standards & Patterns</a>
 - Project 4 - Testing & RPA
 - Project 5 - Reporting & Monitoring
 - Exam(POE)
